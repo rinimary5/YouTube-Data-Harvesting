@@ -22,3 +22,11 @@ You can use a SQL database such as MySQL.
 
 ![mys](https://github.com/rinimary5/YouTube-Data-Harvesting/assets/71283204/b11e7ef0-b8ce-467b-9d77-106b765b40b1)
 
+# Display data in the Streamlit app: 
+Finally, you can display the retrieved data
+in the Streamlit app. You can use Streamlit's data visualization features to
+create charts and graphs to help users analyze the data.
+
+![viz](https://github.com/rinimary5/YouTube-Data-Harvesting/assets/71283204/ce005975-8e03-4429-9bed-749490be22ba)
+
+
